@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import '../dashboard/dashboard_screen.dart';
 import '../analytics/analytics_screen.dart';
-import '../wallet/wallet_screen.dart';
+Ximport '../wallet/wallet_screen.dart';
 import '../ai_assistant/ai_assistant_screen.dart';
 
 class MainNavScreen extends StatefulWidget {
